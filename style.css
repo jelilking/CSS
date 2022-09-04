@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Caveat&display=swap');
+/* 
+GOOGLE FONTS
+*/
+body{
+ font-family: 'Bilbo Swash Caps', cursive;
+}
+h1{
+ font-family: 'Caveat', cursive;
+}
